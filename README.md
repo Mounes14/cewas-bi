@@ -1,4 +1,4 @@
-# cewas-bi — ask cewas EDS data in plain language
+# cewas-bi, ask cewas EDS data in plain language
 
 A Claude Code plugin for cewas staff. Ask questions about enterprises, programmes and EDS (Enterprise Resource Diagnostic) scores; Claude answers from the cewas EDP Power BI model and can draw the EDS score wheel.
 
