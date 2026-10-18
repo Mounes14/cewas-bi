@@ -1,0 +1,6 @@
+{
+  "name": "cewas-bi",
+  "version": "0.2.0",
+  "description": "Ask questions about cewas EDS surveys in plain language. Answers come live from the cewas EDP Power BI model, signed in with your own cewas account.",
+  "author": { "name": "Mounes Neama", "email": "mounes.neama@cewas.org" }
+}

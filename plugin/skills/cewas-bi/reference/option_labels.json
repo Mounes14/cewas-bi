@@ -1,0 +1,251 @@
+{
+ "customerseg_type": {
+  "256240000": "Business to Customer (B2C)",
+  "256240001": "Business to Business (B2B)",
+  "256240002": "Business to Government (B2G)",
+  "256240003": "Business to Donor Organization (B2D)"
+ },
+ "redit_positioning_businessmodell": {
+  "119960000": "Mainly built around product(s)",
+  "119960001": "Mainly built around service(s)",
+  "119960002": "Built around both product(s) and service(s)"
+ },
+ "redit_positioning_statusproductservice": {
+  "119960003": "MVP is generating initial sales/sales in low quantity;",
+  "119960004": "Product is generating regular sales",
+  "119960005": "Product is built for scale and successfully meeting steep growth in demand."
+ },
+ "redit_marketingresources_planbudget": {
+  "119960000": "Yes",
+  "119960001": "Yes, but it is not up to date",
+  "119960002": "No"
+ },
+ "redit_salestrackrecord_revenues": {
+  "119960000": "Not generating regular revenues yet",
+  "119960002": "Between 3 and 6 months",
+  "119960003": "Between 6 and 12 months",
+  "119960004": "More than 12 months"
+ },
+ "redit_profitability_profitloss": {
+  "119960000": "Covering less than 50% of costs",
+  "119960001": "Covering 50% - 75% of costs",
+  "119960002": "Covering 75% - 100% of costs",
+  "119960003": "Covering 100% - 125% of costs (0 - 25% profit)",
+  "119960004": "Covering more than 125% of costs (more than 25% profit)"
+ },
+ "redit_profitability_breakeven": {
+  "119960000": "Break even point already reached",
+  "119960001": "Break even expected within 6 - 12 months",
+  "119960002": "Break even expected in 1 - 2 years",
+  "119960003": "Break even expected in 2 - 3 years",
+  "119960004": "Break even expected in 3+ years",
+  "119960005": "We do not know/we have not calculated this"
+ },
+ "redit_profitability_forecast": {
+  "119960000": "Not applicable / No sales forecast available",
+  "119960001": "Achieved less than 50% of sales targets",
+  "119960002": "Achieved sales targets by more than 50%",
+  "119960003": "Achieved sales targets by more than 70%",
+  "119960004": "Achieved sales targets by more than 90%",
+  "119960005": "Exceeded sales forecast"
+ },
+ "redit_uniquepositioning_intellectualproperty": {
+  "119960000": "No, I don't have anything to patent or trademark",
+  "119960001": "I only have a trademark for the brand but no patent",
+  "119960002": "I have a trademark/could patent a product, but I haven't done it yet",
+  "119960003": "I have started the patent process",
+  "119960004": "I have already patented my product(s)"
+ },
+ "solvingsectorchallenges_barriers": {
+  "119960000": "The lack of cost-appropriate technologies for use in low resource settings",
+  "119960001": "Insufficient user-centered design in technology development",
+  "119960002": "Poorly developed supply chains",
+  "119960003": "High up-front investment costs / absence of proper financing tools to adopt sustainable solutions",
+  "119960004": "Lack of adequate and sustainable operation and/or maintenance services",
+  "119960005": "Key bottlenecks in existing market systems to create value and accelerate local economies",
+  "119960006": "Distribution challenges"
+ },
+ "redit_optimizinginternalprocesses_analysis": {
+  "119960000": "Yes, performed analysis and managed to reduce costs",
+  "119960001": "Analysis was performed but have not managed to reduce costs yet",
+  "119960002": "No, no analysis was performed"
+ },
+ "lettingothersdothework_outsource": {
+  "119960000": "Sourcing of inputs",
+  "119960001": "Production / Manufacturing",
+  "119960002": "Logistics",
+  "119960003": "Marketing and Sales",
+  "119960004": "Services (After sales services, customer care, O&M, etc.)",
+  "119960005": "Administration and/or HR"
+ },
+ "redit_businessplankpis_businessplan": {
+  "119960000": "Yes, updated business plan available",
+  "119960001": "Yes, business plan available but outdated (more than six months old)",
+  "119960002": "No"
+ },
+ "redit_financialmanagement_plan": {
+  "119960000": "Yes, updated and detailed financial plan available",
+  "119960001": "Yes, financial plan available but outdated (more than 6 months old) or not very detailed",
+  "119960002": "No"
+ },
+ "redit_financialmanagement_liquidity": {
+  "119960000": "Yes, we have an updated one we frequently use (at least once a month)",
+  "119960001": "Yes, we have one but not used/updated as frequently (less than once a month)",
+  "119960002": "No"
+ },
+ "redit_evidence_financialstatements": {
+  "119960000": "None",
+  "119960001": "1 year",
+  "119960002": "2 years",
+  "119960003": "3 or more years"
+ },
+ "redit_investmentneedsandoptions_liquidity": {
+  "119960000": "Up to 3 months",
+  "119960001": "3 - 6 months",
+  "119960002": "6 - 12 months",
+  "119960003": "1 - 2 years",
+  "119960004": "More than 2 years",
+  "119960005": "We do not know/we have not calculated this"
+ },
+ "investmentneedsandoptions_type": {
+  "119960000": "Grant",
+  "119960001": "Results-based Financing",
+  "119960002": "Quasi-equity",
+  "119960003": "Equity",
+  "119960004": "Debt Financing"
+ },
+ "cr87e_teamexperience_operationsmanagers": {
+  "256240001": "Less than 1 year",
+  "256240002": "1-3 years",
+  "256240003": "More than 3 years"
+ },
+ "cr87e_teamexperience_financialmanagement": {
+  "256240001": "Less than 1 year",
+  "256240002": "1-3 years",
+  "256240003": "More than 3 years"
+ },
+ "cr87e_teamexperience_salesmanagers": {
+  "256240000": "No experience",
+  "256240001": "Less than 1 year",
+  "256240002": "1-3 years",
+  "256240003": "More than 3 years"
+ },
+ "cr87e_teamexperience_marketingmanagers": {
+  "256240000": "No experience",
+  "256240001": "Less than 1 year",
+  "256240002": "1-3 years",
+  "256240003": "More than 3 years"
+ },
+ "cr87e_teamexperience_operationsmanagersproduction": {
+  "256240001": "Less than 1 year",
+  "256240002": "1-3 years",
+  "256240003": "More than 3 years"
+ },
+ "cr87e_teamexperience_managingteams": {
+  "256240000": "No experience",
+  "256240001": "Less than 1 year",
+  "256240002": "1-3 years",
+  "256240003": "More than 3 years"
+ },
+ "cr87e_supportnetwork_highestlevel": {
+  "256240000": "An external network of experts, coaches and/or mentors that support your business",
+  "256240001": "A board of advisors",
+  "256240002": "A board of directors",
+  "256240003": "None of the above"
+ },
+ "cr87e_supplychainmgmt_interruptions": {
+  "256240000": "No",
+  "256240001": "Yes but we were able to source from alternative suppliers and managed to avoid interruptions",
+  "256240002": "Yes we faced supply gaps / interruptions and affected our ability to deliver"
+ },
+ "cr87e_productiondeliveryresources_keyresources": {
+  "256240000": "Yes",
+  "256240001": "Partially",
+  "256240002": "No"
+ },
+ "cr87e_productiondeliveryresources_increase": {
+  "256240000": "Up to 50%",
+  "256240001": "50% - 100%",
+  "256240002": "100% - 200%",
+  "256240003": "More than 200%",
+  "256240004": "No increase of production / delivery possible without external investments"
+ },
+ "cr87e_legalcompliance_entitytype": {
+  "256240000": "For-profit company",
+  "256240001": "Social enterprise (for profit)",
+  "256240003": "Soleproprietorship",
+  "256240004": "Both as a for profit and a non for profit",
+  "256240005": "Not registered as legal entity"
+ },
+ "cr87e_hrmanagement_jobdescriptions": {
+  "256240000": "Yes, for all positions",
+  "256240001": "For more than half of the positions",
+  "256240002": "No or only for a few positions"
+ },
+ "cr87e_contributionstatustype_developmentproblems": {
+  "256240001": "We have identified a relevant issue to contribute to and developed a vision but have not yet done anything about it",
+  "256240002": "We have evidence that we are contributing towards solving the identified development issue",
+  "256240003": "Our solution is attaining systemic improvements in the sector(s) we are targeting at national level",
+  "256240004": "Our solution is attaining systemic improvements in the sector(s) we are targeting in several countries / at regional level"
+ },
+ "contributionstatustype_aspects": {
+  "256240000": "Relieving pressure on scarce resources",
+  "256240001": "Making basic services more affordable",
+  "256240002": "Empowering marginalized communities, women, youth or marginalized market actors"
+ },
+ "cr87e_impactmgmt_reviewstrategy": {
+  "256240000": "No review to date",
+  "256240001": "Every 2 to 3 years",
+  "256240002": "Annually",
+  "256240003": "Bi-annually",
+  "256240004": "Quarterly",
+  "256240005": "Monthly"
+ },
+ "impactmgmt_measuremonitor": {
+  "256240000": "We don't monitor impact yet",
+  "256240001": "We track quantitative indicators (number of beneficiaries, litres of water supplied, etc) in an Excel sheet or similar",
+  "256240002": "We track quantitative and qualitative indicators through surveys to (a sample of) beneficiaries",
+  "256240003": "We conduct monitoring visits to a sample of beneficiaries",
+  "256240004": "We do third party independent evaluations (impact audits)",
+  "256240005": "We use automated Data Management Systems to track impact in real time"
+ },
+ "cr87e_impactreliability_qualityimpactdata": {
+  "256240000": "Certainly not",
+  "256240001": "Unlikely",
+  "256240002": "Rather likely",
+  "256240003": "Very likely"
+ },
+ "cr87e_impactreliability_needsexpectations": {
+  "256240000": "Certainly not",
+  "256240001": "Unlikely",
+  "256240002": "Rather likely",
+  "256240003": "Very likely"
+ },
+ "cr87e_impactsustainability_revenueoverimpact": {
+  "256240000": "Certainly not",
+  "256240001": "Unlikely",
+  "256240002": "Rather likely",
+  "256240003": "Very likely"
+ },
+ "cr87e_impactsustainability_externalevents": {
+  "256240001": "Unlikely",
+  "256240002": "Rather likely",
+  "256240003": "Very likely"
+ },
+ "cr87e_impactsustainability_lastingimpact": {
+  "256240000": "Certainly not",
+  "256240001": "Unlikely",
+  "256240002": "Rather likely",
+  "256240003": "Very likely"
+ },
+ "_boolean_codes": {
+  "redit_*": {
+   "-1": "Yes",
+   "0": "No"
+  },
+  "cr87e_*": {
+   "True": "Yes",
+   "False": "No"
+  }
+ }
+}

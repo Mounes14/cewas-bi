@@ -1,0 +1,13 @@
+{
+  "name": "cewas-bi",
+  "owner": { "name": "Mounes Neama", "email": "mounes.neama@cewas.org" },
+  "metadata": { "description": "cewas EDS (Enterprise Diagnostic) data for cewas staff: ask questions in plain language, answered from the cewas EDP Power BI model." },
+  "plugins": [
+    {
+      "name": "cewas-bi",
+      "source": "./plugin",
+      "description": "Ask questions about cewas EDS surveys (enterprises, programmes, Pre vs Post scores, impact) and get answers, narratives and score-wheel charts from Power BI.",
+      "version": "0.2.0"
+    }
+  ]
+}

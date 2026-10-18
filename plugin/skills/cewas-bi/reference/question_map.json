@@ -1,0 +1,1537 @@
+{
+ "sections": [
+  {
+   "level": "Segment",
+   "name": "Proof of Business Concept",
+   "score_column": "proofofbusinessconcept_rating_percent",
+   "segment": "Proof of Business Concept",
+   "area": null,
+   "points_column": "proofofbusinessconcept_rating_total",
+   "max_column": "proofofbusinessconcept_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Market potential",
+   "score_column": "marketpotential_rating_percent",
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "points_column": "marketpotential_rating_total",
+   "max_column": "marketpotential_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Customer Segmentation",
+   "score_column": "customerseg_rating_percent",
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "points_column": "customerseg_rating_total",
+   "max_column": "customerseg_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Market size",
+   "score_column": "marketsize_rating_percent",
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "points_column": "marketsize_rating_total",
+   "max_column": "marketsize_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Positioning",
+   "score_column": "positioning_rating_percent",
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "points_column": "positioning_rating_total",
+   "max_column": "positioning_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Pricing",
+   "score_column": "pricing_rating_percent",
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "points_column": "pricing_rating_total",
+   "max_column": "pricing_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Marketing resources",
+   "score_column": "marketingresources_rating_percent",
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "points_column": "marketingresources_rating_total",
+   "max_column": "marketingresources_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Revenue generation",
+   "score_column": "revenuegeneration_rating_percent",
+   "segment": "Proof of Business Concept",
+   "area": "Revenue generation",
+   "points_column": "revenuegeneration_rating_total",
+   "max_column": "revenuegeneration_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Sales track record",
+   "score_column": "salestrackrecord_rating_percent",
+   "segment": "Proof of Business Concept",
+   "area": "Revenue generation",
+   "points_column": "salestrackrecord_rating_total",
+   "max_column": "salestrackrecord_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Profitability",
+   "score_column": "profitability_rating_percent",
+   "segment": "Proof of Business Concept",
+   "area": "Revenue generation",
+   "points_column": "profitability_rating_total",
+   "max_column": "profitability_maxscore"
+  },
+  {
+   "level": "Segment",
+   "name": "Market Success through Innovation",
+   "score_column": "marketsuccessthroughinnovation_rating_percent",
+   "segment": "Market Success through Innovation",
+   "area": null,
+   "points_column": "marketsuccessthroughinnovation_rating_total",
+   "max_column": "marketsuccessthroughinnovation_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Business model innovation",
+   "score_column": "businessmodelinnovation_rating_percent",
+   "segment": "Market Success through Innovation",
+   "area": "Business model innovation",
+   "points_column": "businessmodelinnovation_rating_total",
+   "max_column": "businessmodelinnovation_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Unique positioning",
+   "score_column": "uniquepositioning_rating_percent",
+   "segment": "Market Success through Innovation",
+   "area": "Business model innovation",
+   "points_column": "uniquepositioning_rating_total",
+   "max_column": "uniquepositioning_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Scalability",
+   "score_column": "scalability_rating_percent",
+   "segment": "Market Success through Innovation",
+   "area": "Business model innovation",
+   "points_column": "scalability_rating_total",
+   "max_column": "scalability_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Product innovation",
+   "score_column": "productinnovation_rating_percent",
+   "segment": "Market Success through Innovation",
+   "area": "Product innovation",
+   "points_column": "productinnovation_rating_total",
+   "max_column": "productinnovation_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Solving sector challenges",
+   "score_column": "solvingsectorchallenges_rating_percent",
+   "segment": "Market Success through Innovation",
+   "area": "Product innovation",
+   "points_column": "solvingsectorchallenges_rating_total",
+   "max_column": "solvingsectorchallenges_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Process innovation",
+   "score_column": "processinnovation_rating_percent",
+   "segment": "Market Success through Innovation",
+   "area": "Process innovation",
+   "points_column": "processinnovation_rating_total",
+   "max_column": "processinnovation_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Optimizing internal processes",
+   "score_column": "optimizinginternalprocesses_rating_percent",
+   "segment": "Market Success through Innovation",
+   "area": "Process innovation",
+   "points_column": "optimizinginternalprocesses_rating_total",
+   "max_column": "optimizinginternalprocesses_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Letting others do the work",
+   "score_column": "lettingothersdothework_rating_percent",
+   "segment": "Market Success through Innovation",
+   "area": "Process innovation",
+   "points_column": "lettingothersdothework_rating_total",
+   "max_column": "lettingothersdothework_maxscore"
+  },
+  {
+   "level": "Segment",
+   "name": "Management and Financing",
+   "score_column": "managementandfinancing_rating_percent",
+   "segment": "Management and Financing",
+   "area": null,
+   "points_column": "managementandfinancing_rating_total",
+   "max_column": "managementandfinancing_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Operational and strategic planning",
+   "score_column": "operationalstrategicplanning_rating_percent",
+   "segment": "Management and Financing",
+   "area": "Operational and strategic planning",
+   "points_column": "operationalstrategicplanning_rating_total",
+   "max_column": "operationalstrategicplanning_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Business plan & KPIs",
+   "score_column": "businessplankpis_rating_percent",
+   "segment": "Management and Financing",
+   "area": "Operational and strategic planning",
+   "points_column": "businessplankpis_rating_total",
+   "max_column": "businessplankpis_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Risk management",
+   "score_column": "riskmanagement_rating_percent",
+   "segment": "Management and Financing",
+   "area": "Operational and strategic planning",
+   "points_column": "riskmanagement_rating_total",
+   "max_column": "riskmanagement_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Financial management",
+   "score_column": "financialmanagementsub_rating_percent",
+   "segment": "Management and Financing",
+   "area": "Financial management",
+   "points_column": "financialmanagementsub_rating_total",
+   "max_column": "financialmanagementsub_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Financial management",
+   "score_column": "financialmanagementsubsub_rating_percent",
+   "segment": "Management and Financing",
+   "area": "Financial management",
+   "points_column": null,
+   "max_column": "financialmanagementsubsub_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Evidence",
+   "score_column": "evidence_rating_percent",
+   "segment": "Management and Financing",
+   "area": "Financial management",
+   "points_column": "evidence_rating_total",
+   "max_column": "evidence_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Investments",
+   "score_column": "investments_rating_percent",
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "points_column": "investments_rating_total",
+   "max_column": "investments_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Investment track record",
+   "score_column": "investmenttrackrecord_rating_percent",
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "points_column": "investmenttrackrecord_rating_total",
+   "max_column": "investmenttrackrecord_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Investment needs and options",
+   "score_column": "investmentneedsandoptions_rating_percent",
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "points_column": "investmentneedsandoptions_rating_total",
+   "max_column": "investmentneedsandoptions_maxscore"
+  },
+  {
+   "level": "Segment",
+   "name": "Capacity to deliver",
+   "score_column": "capacitytodeliver_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": null,
+   "points_column": "capacitytodeliver_rating_total",
+   "max_column": "capacitytodeliver_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Team composition",
+   "score_column": "teamcomposition_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "points_column": "teamcomposition_rating_total",
+   "max_column": "teamcomposition_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Capacity of founders",
+   "score_column": "capacityoffounders_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "points_column": "capacityoffounders_rating_total",
+   "max_column": "capacityoffounders_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Team experience",
+   "score_column": "teamexperience_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "points_column": "teamexperience_rating_total",
+   "max_column": "teamexperience_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Support network",
+   "score_column": "supportnetwork_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "points_column": "supportnetwork_rating_total",
+   "max_column": "supportnetwork_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Operational capacity",
+   "score_column": "operationalcapacity_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": "Operational capacity",
+   "points_column": "operationalcapacity_rating_total",
+   "max_column": "operationalcapacity_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Supply chain management",
+   "score_column": "supplychainmgmt_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": "Operational capacity",
+   "points_column": "supplychainmgmt_rating_total",
+   "max_column": "supplychainmgmt_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Production and delivery resources",
+   "score_column": "productiondeliveryresources_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": "Operational capacity",
+   "points_column": "productiondeliveryresources_rating_total",
+   "max_column": "productiondeliveryresources_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Governance",
+   "score_column": "governance_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": "Governance",
+   "points_column": "governance_rating_total",
+   "max_column": "governance_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Legal setup and compliance",
+   "score_column": "legalcompliance_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": "Governance",
+   "points_column": "legalcompliance_rating_total",
+   "max_column": "legalcompliance_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "HR Management",
+   "score_column": "hrmanagement_rating_percent",
+   "segment": "Capacity to deliver",
+   "area": "Governance",
+   "points_column": "hrmanagement_rating_total",
+   "max_column": "hrmanagement_maxscore"
+  },
+  {
+   "level": "Segment",
+   "name": "Impact Potential",
+   "score_column": "impactpotential_rating_percent",
+   "segment": "Impact Potential",
+   "area": null,
+   "points_column": "impactpotential_rating_total",
+   "max_column": null
+  },
+  {
+   "level": "Area",
+   "name": "What impact",
+   "score_column": "whatimpact_rating_percent",
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "points_column": "whatimpact_rating_total",
+   "max_column": "whatimpact_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Status and type of contribution",
+   "score_column": "contributionstatustype_rating_percent",
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "points_column": "contributionstatustype_rating_total",
+   "max_column": "contributionstatustype_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Impact management",
+   "score_column": "impactmgmt_rating_percent",
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "points_column": "impactmgmt_rating_total",
+   "max_column": "impactmgmt_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "How much impact",
+   "score_column": "howmuchimpact_rating_percent",
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "points_column": null,
+   "max_column": "howmuchimpact_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Who benefits",
+   "score_column": "whobenefits_rating_percent",
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "points_column": null,
+   "max_column": "whobenefits_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Societal impact",
+   "score_column": "societalimpact_rating_percent",
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "points_column": "societalimpact_rating_total",
+   "max_column": "societalimpact_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Core impact: WASH",
+   "score_column": "coreimpactwash_rating_percent",
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "points_column": "coreimpactwash_rating_total",
+   "max_column": "coreimpactwash_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Core impact: Waste & Sustainable agriculture",
+   "score_column": "coreimpactwaste_sustainable_rating_percent",
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "points_column": "coreimpactwaste_sustainable_rating_total",
+   "max_column": "coreimpactwaste_sustainable_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Climate impact",
+   "score_column": "climateimpact_rating_percent",
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "points_column": "climateimpact_rating_total",
+   "max_column": "climateimpact_maxscore"
+  },
+  {
+   "level": "Area",
+   "name": "Impact risk",
+   "score_column": "impactrisk_rating_percent",
+   "segment": "Impact Potential",
+   "area": "Impact risk",
+   "points_column": "impactrisk_rating_total",
+   "max_column": "impactrisk_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Impact reliability",
+   "score_column": "impactreliability_rating_percent",
+   "segment": "Impact Potential",
+   "area": "Impact risk",
+   "points_column": "impactreliability_rating_total",
+   "max_column": "impactreliability_maxscore"
+  },
+  {
+   "level": "Topic",
+   "name": "Impact sustainability",
+   "score_column": "impactsustainability_rating_percent",
+   "segment": "Impact Potential",
+   "area": "Impact risk",
+   "points_column": "impactsustainability_rating_total",
+   "max_column": "impactsustainability_maxscore"
+  }
+ ],
+ "questions": [
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Customer Segmentation",
+   "question": "Do you (mainly) target end-customers (B2C), other businesses (B2B), governments (B2G) or donor organizations (B2D)?",
+   "rating_column": null,
+   "max_points": null,
+   "answer_column": "customerseg_type"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Customer Segmentation",
+   "question": "Which customer segments do you target and how many have you served in the last calendar year (per customer type)?",
+   "rating_column": "customerseg_segmentsserved_rating",
+   "max_points": 1.0,
+   "answer_column": "customerseg_segmentsserved"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Customer Segmentation",
+   "question": "Have you conducted a needs assessment of your end users and adapted your offers according to the results? If yes, describe what you did.",
+   "rating_column": "customerseg_needsassessment_rating",
+   "max_points": 1.0,
+   "answer_column": "customerseg_needsassessment"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Market size",
+   "question": "How large is your current SAM (serviceable target market) in terms of total number of customers?",
+   "rating_column": "marketsize_sam_rating",
+   "max_points": 1.0,
+   "answer_column": "marketsize_SAM"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Market size",
+   "question": "What assumptions went into your SAM projections?",
+   "rating_column": "marketsize_assumptions_rating",
+   "max_points": 1.0,
+   "answer_column": "marketsize_assumptions"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Market size",
+   "question": "How large is your current target market in terms of revenue you can generate per year in US$ equivalent? (# of your potential customers multiplied by the average annual revenue generated per customer)",
+   "rating_column": "marketsize_revenuetargetmarket_rating",
+   "max_points": 1.0,
+   "answer_column": "marketsize_revenuetargetmarket"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Market size",
+   "question": "Which factors drive the development of your market?",
+   "rating_column": "marketsize_developmentfactors_rating",
+   "max_points": 1.0,
+   "answer_column": "marketsize_developmentfactors"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Positioning",
+   "question": "Is your business model built around product(s), service(s) or a combination thereof?",
+   "rating_column": null,
+   "max_points": null,
+   "answer_column": "positioning_businessmodell"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Positioning",
+   "question": "Which of the following statements best describes the status of your most advanced product or service?",
+   "rating_column": "redit_positioning_statusproductservice_rating",
+   "max_points": 1.0,
+   "answer_column": "positioning_statusproductservice"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Positioning",
+   "question": "Who are your competitors (both direct and indirect), and what solutions do they offer?",
+   "rating_column": "redit_positioning_competitors_rating",
+   "max_points": 1.0,
+   "answer_column": "positioning_competitor"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Positioning",
+   "question": "How do you differentiate yourself from your competition?",
+   "rating_column": "redit_positioning_differentiate_rating",
+   "max_points": 1.0,
+   "answer_column": "positioning_differentiate"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Pricing",
+   "question": "Have you established clear pricing of your products or services?",
+   "rating_column": "redit_pricing_clearpricing_rating",
+   "max_points": 1.0,
+   "answer_column": "pricing_clearpricing"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Pricing",
+   "question": "Do you (plan to) generate repeat sales or regular revenues from your customers?",
+   "rating_column": "redit_pricing_generate_rating",
+   "max_points": 1.0,
+   "answer_column": "pricing_generate"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Marketing resources",
+   "question": "Do you have a marketing plan and budget?",
+   "rating_column": "redit_marketingresources_planbudget_rating",
+   "max_points": 1.0,
+   "answer_column": "marketingresources_planbudget"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Marketing resources",
+   "question": "Do you use a Customer Relationship Management (CRM) system?",
+   "rating_column": "redit_marketingresources_crm_rating",
+   "max_points": 1.0,
+   "answer_column": "marketingresources_crm"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Market potential",
+   "topic": "Marketing resources",
+   "question": "Do you have documented customer testimonials?",
+   "rating_column": "redit_marketingresources_testimonials_rating",
+   "max_points": 1.0,
+   "answer_column": "marketingresources_testimonials"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Revenue generation",
+   "topic": "Sales track record",
+   "question": "Since when are you generating regular revenues from the sales of your product(s) and/or service(s)",
+   "rating_column": "redit_salestrackrecord_revenues_rating",
+   "max_points": 1.0,
+   "answer_column": "salestrackrecord_revenues"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Revenue generation",
+   "topic": "Sales track record",
+   "question": "How much revenue have you generated during the last financial year (total turnover) in USD?",
+   "rating_column": "redit_salestrackrecord_totalturnover_rating",
+   "max_points": 1.0,
+   "answer_column": "salestrackrecord_totalturnover"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Revenue generation",
+   "topic": "Sales track record",
+   "question": "How much revenue have you generated from direct sales during the last six months?",
+   "rating_column": "redit_salestrackrecord_directsales_rating",
+   "max_points": 1.0,
+   "answer_column": "salestrackrecord_directsales"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Revenue generation",
+   "topic": "Sales track record",
+   "question": "Have your revenues continuously increased each month during the last six months?",
+   "rating_column": "redit_salestrackrecord_increasedrevenues_rating",
+   "max_points": 1.0,
+   "answer_column": "salestrackrecord_increasedrevenues"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Revenue generation",
+   "topic": "Profitability",
+   "question": "How much profit or loss do you currently generate per customer with your most profitable product and/or service?",
+   "rating_column": "redit_profitability_profitloss_rating",
+   "max_points": 1.0,
+   "answer_column": "profitability_profitloss"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Revenue generation",
+   "topic": "Profitability",
+   "question": "When do you plan to break even?",
+   "rating_column": "redit_profitability_breakeven_rating",
+   "max_points": 1.0,
+   "answer_column": "profitability_breakeven"
+  },
+  {
+   "segment": "Proof of Business Concept",
+   "area": "Revenue generation",
+   "topic": "Profitability",
+   "question": "How accurate has your sales forecast been in the past 6 months?",
+   "rating_column": "redit_profitability_forecast_rating",
+   "max_points": 1.0,
+   "answer_column": "profitability_forecast"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Business model innovation",
+   "topic": "Unique positioning",
+   "question": "Why is your business model innovative and how does it uniquely solve your customers problem compared to the alternatives?",
+   "rating_column": "redit_uniquepositioning_innovative_rating",
+   "max_points": 1.0,
+   "answer_column": "uniquepositioning_innovative"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Business model innovation",
+   "topic": "Unique positioning",
+   "question": "Do you combine sales of your main product or service with complementary operation and maintenance or after sales services (that your competitors do not offer)?",
+   "rating_column": "redit_uniquepositioning_combinesales_rating",
+   "max_points": 1.0,
+   "answer_column": "uniquepositioning_combinesales"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Business model innovation",
+   "topic": "Unique positioning",
+   "question": "Does your business model (at least in part) build on a solution that has proven successful in other sectors but has not been applied in your target market / sector?",
+   "rating_column": "redit_uniquepositioning_businessmodel_rating",
+   "max_points": 1.0,
+   "answer_column": "uniquepositioning_businessmodel"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Business model innovation",
+   "topic": "Unique positioning",
+   "question": "Intellectual property: Have you patented your product(s)?",
+   "rating_column": "redit_uniquepositioning_intellectualproperty_rating",
+   "max_points": 1.0,
+   "answer_column": "uniquepositioning_intellectualproperty"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Business model innovation",
+   "topic": "Scalability",
+   "question": "What innovative aspects of your business model (could) make your business model scalable?",
+   "rating_column": "redit_scalability_scalable_rating",
+   "max_points": 1.0,
+   "answer_column": "scalability_scalable"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Business model innovation",
+   "topic": "Scalability",
+   "question": "What partnerships are key to scale your business model and impact? (please list them and explain what is the value proposition and incentives you offer them)",
+   "rating_column": "redit_scalability_partnerships_rating",
+   "max_points": 1.0,
+   "answer_column": "scalability_partnerships"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Product innovation",
+   "topic": "Solving sector challenges",
+   "question": "Are you tackling any of the following barriers with your business model?",
+   "rating_column": "solvingsectorchallenges_barriers_rating",
+   "max_points": 1.0,
+   "answer_column": "solvingsectorchallenges_barriers"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Product innovation",
+   "topic": "Solving sector challenges",
+   "question": "Do you offer innovative payment options (rate payments, success based payments, buy now pay later, etc.) that enable your customers to buy your product and/or service? If yes, please specify",
+   "rating_column": "redit_solvingsectorchallenges_payment_rating",
+   "max_points": 1.0,
+   "answer_column": "solvingsectorchallenges_payment"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Process innovation",
+   "topic": "Optimizing internal processes",
+   "question": "Have you conducted an analysis of the most cost intensive steps in your value creation chain and taken action to reduce costs in the past year?",
+   "rating_column": "redit_optimizinginternalprocesses_analysis_rating",
+   "max_points": 1.0,
+   "answer_column": "optimizinginternalprocesses_analysis"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Process innovation",
+   "topic": "Optimizing internal processes",
+   "question": "Have you identified priority areas to improve the QUALITY of your production / delivery processes (e.g. improving the quality of the products or services or reducing negative environmental impacts of your production)? If yes, please specify:",
+   "rating_column": "redit_optimizinginternalprocesses_quality_rating",
+   "max_points": 1.0,
+   "answer_column": "optimizinginternalprocesses_quality"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Process innovation",
+   "topic": "Letting others do the work",
+   "question": "In which of the following areas do you outsource value creation (at least partly)?",
+   "rating_column": "redit_lettingothersdothework_outsource_rating",
+   "max_points": 1.0,
+   "answer_column": "lettingothersdothework_outsource"
+  },
+  {
+   "segment": "Market Success through Innovation",
+   "area": "Process innovation",
+   "topic": "Letting others do the work",
+   "question": "Do you engage / collaborate with customers in the value creation of the products/services your business offers? If yes, please specify:",
+   "rating_column": "redit_lettingothersdothework_customers_rating",
+   "max_points": 1.0,
+   "answer_column": "lettingothersdothework_customers"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Operational and strategic planning",
+   "topic": "Business plan & KPIs",
+   "question": "Do you have a comprehensive, up to date business plan document?",
+   "rating_column": "redit_businessplankpis_businessplan_rating",
+   "max_points": 1.0,
+   "answer_column": "businessplankpis_businessplan"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Operational and strategic planning",
+   "topic": "Business plan & KPIs",
+   "question": "Have you established Key Performance Indicators (KPIs) and targets for your business? If yes, please share your KPIs and related targets for the current calendar year",
+   "rating_column": "redit_businessplankpis_kpis_rating",
+   "max_points": 1.0,
+   "answer_column": "businessplankpis_kpis"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Operational and strategic planning",
+   "topic": "Business plan & KPIs",
+   "question": "How (and how often) do you use and monitor progress against your KPIs and related annual targets?",
+   "rating_column": "redit_businessplankpis_monitor_rating",
+   "max_points": 1.0,
+   "answer_column": "businessplankpis_monitor"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Operational and strategic planning",
+   "topic": "Risk management",
+   "question": "Which are the key risks your business is facing that could keep you from meeting your targets and what mitigation measures have you established?",
+   "rating_column": "redit_riskmanagement_risks_rating",
+   "max_points": 1.0,
+   "answer_column": "riskmanagement_risks"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Operational and strategic planning",
+   "topic": "Risk management",
+   "question": "Have you assessed regulatory market barriers for your business? If yes, please specify which ones.",
+   "rating_column": "redit_riskmanagement_barriers_rating",
+   "max_points": 1.0,
+   "answer_column": "riskmanagement_barriers"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Operational and strategic planning",
+   "topic": "Risk management",
+   "question": "What are your risk mitigation / coping measures to deal with any potential future financial distress?",
+   "rating_column": "redit_riskmanagement_financialdistress_rating",
+   "max_points": 1.0,
+   "answer_column": "riskmanagement_financialdistress"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Financial management",
+   "topic": "Financial management",
+   "question": "Do you have an updated and detailed financial plan available?",
+   "rating_column": "redit_financialmanagement_plan_rating",
+   "max_points": 1.0,
+   "answer_column": "financialmanagement_plan"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Financial management",
+   "topic": "Financial management",
+   "question": "Do you have a cash flow / liquidity management system?",
+   "rating_column": "redit_financialmanagement_liquidity_rating",
+   "max_points": 1.0,
+   "answer_column": "financialmanagement_liquidity"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Financial management",
+   "topic": "Evidence",
+   "question": "For how many years can you produce audited financial statements?",
+   "rating_column": "redit_evidence_financialstatements_rating",
+   "max_points": 1.0,
+   "answer_column": "evidence_financialstatements"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Financial management",
+   "topic": "Evidence",
+   "question": "Do you have a 1-3 page back-up documentation of your  financial model on your unit cost of your product/service available?",
+   "rating_column": "redit_evidence_documentation_rating",
+   "max_points": 1.0,
+   "answer_column": "evidence_documentation"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "topic": "Investment track record",
+   "question": "Total amount of grants received to date [in USD equivalent]",
+   "rating_column": "redit_investmenttrackrecord_grants_rating",
+   "max_points": 1.0,
+   "answer_column": "investmenttrackrecord_grants"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "topic": "Investment track record",
+   "question": "Total amount of debt investment raised to date [in USD equivalent]",
+   "rating_column": "redit_investmenttrackrecord_debt_rating",
+   "max_points": 1.0,
+   "answer_column": "investmenttrackrecord_debt"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "topic": "Investment track record",
+   "question": "Total amount of equity investment raised to date [in USD equivalent],",
+   "rating_column": "redit_investmenttrackrecord_equity_rating",
+   "max_points": 1.0,
+   "answer_column": "investmenttrackrecord_equity"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "topic": "Investment track record",
+   "question": "Total amount of further investments (grants, debts, equity) under negotiations at the moment [USD equivalent]",
+   "rating_column": "redit_investmenttrackrecord_investments_rating",
+   "max_points": 1.0,
+   "answer_column": "investmenttrackrecord_investments"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "topic": "Investment track record",
+   "question": "Has your business incurred any liabilities due to providing collateral for loans or other financial obligations?",
+   "rating_column": "redit_investmenttrackrecord_liabilities_rating",
+   "max_points": 1.0,
+   "answer_column": "investmenttrackrecord_liabilities"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "topic": "Investment track record",
+   "question": "Has your company already been valuated by a third party?",
+   "rating_column": "redit_investmenttrackrecord_thirdparty_rating",
+   "max_points": 1.0,
+   "answer_column": "investmenttrackrecord_thirdparty"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "topic": "Investment needs and options",
+   "question": "For how long is your liquidity secured?",
+   "rating_column": "redit_investmentneedsandoptions_liquidity_rating",
+   "max_points": 1.0,
+   "answer_column": "investmentneedsandoptions_liquidity"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "topic": "Investment needs and options",
+   "question": "What is the amount of investments (not revenues!) do you seek to raise in the COMING twelve months?",
+   "rating_column": "redit_investmentneedsandoptions_amount_rating",
+   "max_points": 1.0,
+   "answer_column": "investmentneedsandoptions_amount"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "topic": "Investment needs and options",
+   "question": "How much of the investment do you plan to use for what and what do you seek to achieve?",
+   "rating_column": "redit_investmentneedsandoptions_plan_rating",
+   "max_points": 1.0,
+   "answer_column": "investmentneedsandoptions_plan"
+  },
+  {
+   "segment": "Management and Financing",
+   "area": "Investments",
+   "topic": "Investment needs and options",
+   "question": "What type of investment do you seek?",
+   "rating_column": "redit_investmentneedsandoptions_type_rating",
+   "max_points": 1.0,
+   "answer_column": "investmentneedsandoptions_type"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Capacity of founders",
+   "question": "How many founders does your start-up have?",
+   "rating_column": "redit_capacityoffounders_howmanyfounders_rating",
+   "max_points": 1.0,
+   "answer_column": "capacityoffounders_howmanyfounders"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Capacity of founders",
+   "question": "Has at least one of the founders founded another enterprise before this one?",
+   "rating_column": "redit_capacityoffounders_before_rating",
+   "max_points": 1.0,
+   "answer_column": "capacityoffounders_before"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Capacity of founders",
+   "question": "Please provide an example of a mistake that happened during the past six months that you (and your team) learned from:",
+   "rating_column": "redit_capacityoffounders_mistake_rating",
+   "max_points": 1.0,
+   "answer_column": "capacityoffounders_mistake"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Capacity of founders",
+   "question": "For how long can you as a (team of) founder continue to work on your start-up with the salary level you are currently paying yourself(ves)? (insert # of months)",
+   "rating_column": "redit_capacityoffounders_salary_rating",
+   "max_points": 1.0,
+   "answer_column": "capacityoffounders_salary"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Team experience",
+   "question": "How many people formally work in your enterprise in total (including founders, management and staff on a payslip)?",
+   "rating_column": "teamexperience_peopleintotal_rating",
+   "max_points": 1.0,
+   "answer_column": "teamexperience_peopleintotal"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Team experience",
+   "question": "On average, how much practical experience do the operations managers have related to relevant technological aspects and work in the sector you target (e.g. water, sanitation, hygiene, waste, agriculture, etc.)?",
+   "rating_column": "teamexperience_operationsmanagers_rating",
+   "max_points": 1.0,
+   "answer_column": "teamexperience_operationsmanagers"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Team experience",
+   "question": "On average, how much practical experience does your management team have related to financial management?",
+   "rating_column": "teamexperience_financialmanagement_rating",
+   "max_points": 1.0,
+   "answer_column": "teamexperience_financialmanagement"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Team experience",
+   "question": "On average, how much practical experience do sales managers in your team have related to sales?",
+   "rating_column": "teamexperience_salesmanagers_rating",
+   "max_points": 1.0,
+   "answer_column": "teamexperience_salesmanagers"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Team experience",
+   "question": "On average, how much practical experience do marketing managers in your team have related to marketing?",
+   "rating_column": "teamexperience_marketingmanagers_rating",
+   "max_points": 1.0,
+   "answer_column": "teamexperience_marketingmanagers"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Team experience",
+   "question": "On average, how much practical experience do operations managers in your team have related to production processes?",
+   "rating_column": "teamexperience_operationsmanagersproduction_rating",
+   "max_points": 1.0,
+   "answer_column": "teamexperience_operationsmanagersproduction"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Team experience",
+   "question": "On average, how many years of practical experience does the management team / founder(s) have in managing teams?",
+   "rating_column": "teamexperience_managingteams_rating",
+   "max_points": 1.0,
+   "answer_column": "teamexperience_managingteams"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Team composition",
+   "topic": "Support network",
+   "question": "What is the highest level of external experiences and capacities that you can rely on?",
+   "rating_column": "supportnetwork_highestlevel_rating",
+   "max_points": 1.0,
+   "answer_column": "supportnetwork_highestlevel"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Operational capacity",
+   "topic": "Supply chain management",
+   "question": "Are written agreements in place with key suppliers (e.g. for molds, etc.) and business partners?",
+   "rating_column": "supplychainmgmt_writtenagreements_rating",
+   "max_points": 1.0,
+   "answer_column": "supplychainmgmt_writtenagreements"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Operational capacity",
+   "topic": "Supply chain management",
+   "question": "Have you faced any supply gaps / interruptions that led to delays in your production or delivery of your product(s) or service(s) in the past six month?",
+   "rating_column": "supplychainmgmt_interruptions_rating",
+   "max_points": 1.0,
+   "answer_column": "supplychainmgmt_interruptions"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Operational capacity",
+   "topic": "Production and delivery resources",
+   "question": "Have you established Standard Operating Procedures (SOPs) for your key operational processes?",
+   "rating_column": "productiondeliveryresources_sop_rating",
+   "max_points": 1.0,
+   "answer_column": "productiondeliveryresources_sop"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Operational capacity",
+   "topic": "Production and delivery resources",
+   "question": "Have you established all the necessary key resources to fully deliver your offering? (For product-based businesses, this includes fully functioning production facilities. For service-based businesses, this includes having the required people and resources in place).",
+   "rating_column": "productiondeliveryresources_keyresources_rating",
+   "max_points": 1.0,
+   "answer_column": "productiondeliveryresources_keyresources"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Operational capacity",
+   "topic": "Production and delivery resources",
+   "question": "By how much could you increase your production / delivery of services in the coming three months without additional external investments?",
+   "rating_column": "productiondeliveryresources_increase_rating",
+   "max_points": 1.0,
+   "answer_column": "productiondeliveryresources_increase"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Governance",
+   "topic": "Legal setup and compliance",
+   "question": "As which type of legal entity have you established your business?",
+   "rating_column": "legalcompliance_entitytype_rating",
+   "max_points": 1.0,
+   "answer_column": "legalcompliance_entitytype"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Governance",
+   "topic": "Legal setup and compliance",
+   "question": "Do you have all required permits, licenses and approvals to operate?",
+   "rating_column": "legalcompliance_permitslicenses_rating",
+   "max_points": 1.0,
+   "answer_column": "legalcompliance_permitslicenses"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Governance",
+   "topic": "HR Management",
+   "question": "Do you have written job descriptions for all team members?",
+   "rating_column": "hrmanagement_jobdescriptions_rating",
+   "max_points": 1.0,
+   "answer_column": "hrmanagement_jobdescriptions"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Governance",
+   "topic": "HR Management",
+   "question": "Have you established a clear performance management framework to ensure accountability and appropriate compensation?",
+   "rating_column": "hrmanagement_performancemanagement_rating",
+   "max_points": 1.0,
+   "answer_column": "hrmanagement_performancemanagement"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Governance",
+   "topic": "HR Management",
+   "question": "Do you have a succession plan for key positions?",
+   "rating_column": "hrmanagement_successionplan_rating",
+   "max_points": 1.0,
+   "answer_column": "hrmanagement_successionplan"
+  },
+  {
+   "segment": "Capacity to deliver",
+   "area": "Governance",
+   "topic": "HR Management",
+   "question": "Have you established a board that oversees the company and management team?",
+   "rating_column": "hrmanagement_board_rating",
+   "max_points": 1.0,
+   "answer_column": "hrmanagement_board"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "topic": "Status and type of contribution",
+   "question": "Please explain how you generate impact",
+   "rating_column": null,
+   "max_points": null,
+   "answer_column": "impact_generation"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "topic": "Status and type of contribution",
+   "question": "Which of the following statements applies best when it comes to development problems you are tackling and your vision for solving them?",
+   "rating_column": "contributionstatustype_developmentproblems_rating",
+   "max_points": 1.0,
+   "answer_column": "contributionstatustype_developmentproblems"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "topic": "Status and type of contribution",
+   "question": "Is your business model contributing to any of the following aspects?",
+   "rating_column": "contributionstatustype_aspects_rating",
+   "max_points": 1.0,
+   "answer_column": "contributionstatustype_aspects"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "topic": "Impact management",
+   "question": "Have you defined impact related performance objectives or targets for this year? If yes, please share them.",
+   "rating_column": "impactmgmt_performanceobjectives_rating",
+   "max_points": 1.0,
+   "answer_column": "impactmgmt_performanceobjectives"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "topic": "Impact management",
+   "question": "Do you have an impact model or theory of change?",
+   "rating_column": "impactmgmt_impactmodel_rating",
+   "max_points": 1.0,
+   "answer_column": "impactmgmt_impactmodel"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "topic": "Impact management",
+   "question": "How regularly do you review your impact strategy and impact (performance) objectives?",
+   "rating_column": "impactmgmt_reviewstrategy_rating",
+   "max_points": 1.0,
+   "answer_column": "impactmgmt_reviewstrategy"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "topic": "Impact management",
+   "question": "Are the impact objectives part of the business performance evaluation?",
+   "rating_column": "impactmgmt_evaluation_rating",
+   "max_points": 1.0,
+   "answer_column": "impactmgmt_evaluation"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "What impact",
+   "topic": "Impact management",
+   "question": "How do you measure / monitor your impact?",
+   "rating_column": "impactmgmt_measuremonitor_rating",
+   "max_points": 1.0,
+   "answer_column": "impactmgmt_measuremonitor"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Who benefits",
+   "question": "If different from customers: What is the total number of people benefiting from your product(s) and/or service(s)",
+   "rating_column": "impact_peoplebenefiting_rating",
+   "max_points": 1.0,
+   "answer_column": "impact_peoplebenefiting"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Who benefits",
+   "question": "What percentage of your customers / beneficiaries are female?",
+   "rating_column": "impact_femalebenficiaries_rating",
+   "max_points": 1.0,
+   "answer_column": "impact_femalebenficiaries"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Who benefits",
+   "question": "What percentage of your beneficiaries are from vulnerable groups (for example BoP, people from rural communities, people with disabilities, children, the elderly, refugees, etc)?",
+   "rating_column": "impact_vulnerablebeneficiaries_rating",
+   "max_points": 1.0,
+   "answer_column": "impact_vulnerablebeneficiaries"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Societal impact",
+   "question": "What is the core impact focus of your business?",
+   "rating_column": null,
+   "max_points": null,
+   "answer_column": "Impact_Branching"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Societal impact",
+   "question": "SDG 4: Total number of people [#] that acquired knowledge and skills needed to promote sustainable development through your business to date",
+   "rating_column": "redit_impact_sdg4_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG4"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Societal impact",
+   "question": "SDG 5: Total number of women [#] in management positions in your business",
+   "rating_column": "redit_impact_sdg5_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG5"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Societal impact",
+   "question": "SDG 5: Total number of women [#] in workforce (full-time equivalent), employed at equal pay in your business",
+   "rating_column": "redit_impact_sdg5_fte_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG5_FTE"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Societal impact",
+   "question": "SDG 8: Total number of jobs [#] created (full-time equivalent) through your business",
+   "rating_column": "redit_impact_sdg8_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG8"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Societal impact",
+   "question": "SDG 8: Total number of jobs [#] created (full-time equivalent) in low-income areas, among disadvantaged groups, incl. minorities, refugees through your business",
+   "rating_column": "redit_impact_sdg8_fte_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG8_FTE"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Societal impact",
+   "question": "SDG 8: Total number of additional people [#] that generate income through your business without a proper employment",
+   "rating_column": "redit_impact_sdg8_income_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG8_Income"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: WASH",
+   "question": "SDG 6.1: How many people received NEW ACCESS to safe and affordable drinking water to date due to your business?",
+   "rating_column": "impact_sdg61_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG6.1"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: WASH",
+   "question": "SDG 6.1: How many people received IMPROVED OR MORE AFFORDABLE access to safe and affordable drinking water to date due to your business?",
+   "rating_column": "impact_sdg61improvedaccess_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG6.1ImprovedAccess"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: WASH",
+   "question": "SDG 6.2: How many people received NEW ACCESS to adequate and equitable sanitation and hygiene to date through your business?",
+   "rating_column": "impact_sdg62_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG6.2"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: WASH",
+   "question": "SDG 6.2: How many people received IMPROVED OR MORE AFFORDABLE access to adequate and equitable sanitation and hygiene to date through your business?",
+   "rating_column": "impact_sdg62improvedaccess_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG6.2ImprovedAccess"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: WASH",
+   "question": "SDG 6.3: How much wastewater (in cubic meters) has been NEWLY treated because of your business to date that would otherwise not have been treated?",
+   "rating_column": "impact_sdg63_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG6.3"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: WASH",
+   "question": "SDG 6.4: How much water (in cubic meters) has been saved or newly generated because of your business to date that would otherwise not have been saved / available?",
+   "rating_column": "impact_sdg64_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG6.4"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: WASH",
+   "question": "How many people received new access to female health and hygiene products to date through your business?",
+   "rating_column": "impact_newaccessfemalehealthhygiene_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_NewAccessFemaleHealthHygiene"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: WASH",
+   "question": "How many people received improved or more affordable access to female health and hygiene products to date through your business?",
+   "rating_column": "impact_improvedaccessfemalehealthhygiene_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_ImprovedAccessFemaleHealthHygiene"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: Waste & Sustainable agriculture",
+   "question": "SDG 2: Total quantity [tonnes] of food produced through your business to date",
+   "rating_column": "impact_sdg2_rating",
+   "max_points": 0.3,
+   "answer_column": "Impact_SDG2"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: Waste & Sustainable agriculture",
+   "question": "SDG 7: Total number of people [#] (e.g. farmers, producers, etc.) using water- or energy-efficient innovations or solutions thanks to your business",
+   "rating_column": "impact_sdg7_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG7"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: Waste & Sustainable agriculture",
+   "question": "SDG 11: How much ORGANIC waste (in tons) has been newly treated because of your business to date that would otherwise not have been treated?",
+   "rating_column": "impact_sdg11_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG11"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: Waste & Sustainable agriculture",
+   "question": "SDG 11: How much INORGANIC waste (in tons) has been newly treated because of your business to date that would otherwise not have been treated?",
+   "rating_column": "impact_sdg11inorganic_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG11Inorganic"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Core impact: Waste & Sustainable agriculture",
+   "question": "SDG 12: Total mass of avoided resource waste [tonnes] through prevention, reduction, recycling and reuse through your business to date",
+   "rating_column": "impact_sdg12_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG12"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "How much impact",
+   "topic": "Climate impact",
+   "question": "SDG 13: Total mass of avoided greenhouse gas emissions [tonnes] through your business to date",
+   "rating_column": "impact_sdg13_rating",
+   "max_points": 1.0,
+   "answer_column": "Impact_SDG13"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "Impact risk",
+   "topic": "Impact reliability",
+   "question": "Based on your data collection methods, how likely is it that your business has difficulties compiling reliable, high quality impact data?",
+   "rating_column": "impactreliability_qualityimpactdata_rating",
+   "max_points": 1.0,
+   "answer_column": "impactreliability_qualityimpactdata"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "Impact risk",
+   "topic": "Impact reliability",
+   "question": "Considering your efforts to engage and consult beneficiaries and partners, how likely is it that your business misunderstands or not sufficiently considers their needs and expectations?",
+   "rating_column": "impactreliability_needsexpectations_rating",
+   "max_points": 1.0,
+   "answer_column": "impactreliability_needsexpectations"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "Impact risk",
+   "topic": "Impact sustainability",
+   "question": "How likely is it that your business may prioritize revenue generation over impact because your impact is not locked into the enterprise model?",
+   "rating_column": "impactsustainability_revenueoverimpact_rating",
+   "max_points": 1.0,
+   "answer_column": "impactsustainability_revenueoverimpact"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "Impact risk",
+   "topic": "Impact sustainability",
+   "question": "How likely is it that external events (beyond the control of the business, e.g. elections, disasters, economic crisis, etc.) disrupt your ability to deliver the envisaged impact?",
+   "rating_column": "impactsustainability_externalevents_rating",
+   "max_points": 1.0,
+   "answer_column": "impactsustainability_externalevents"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "Impact risk",
+   "topic": "Impact sustainability",
+   "question": "How likely is it that the positive impact the business is generating may not last or that negative impact (e.g. waste) is not mitigated?",
+   "rating_column": "impactsustainability_lastingimpact_rating",
+   "max_points": 1.0,
+   "answer_column": "impactsustainability_lastingimpact"
+  },
+  {
+   "segment": "Impact Potential",
+   "area": "Impact risk",
+   "topic": "Impact sustainability",
+   "question": "What is the negative social or environmental impact of your business and how do you (plan to) mitigate it?",
+   "rating_column": "impactsustainability_negativeimpact_rating",
+   "max_points": 1.0,
+   "answer_column": "impactsustainability_negativeimpact"
+  }
+ ],
+ "source": {
+  "powerbi_table": "Diagnostic",
+  "dataverse_table": "cr87e_cewasedp_dev (cewasEDP_DiagnosticData)",
+  "built_from": "EDS Word exports (content-control tags = Dataverse column names), 60 files validated 2026-10-18",
+  "notes": [
+   "Score columns loaded 2026-10-18 (Power Query: all columns); names resolved to model names",
+   "Answer column stores the readable value; redit_/cr87e_ prefix columns store option codes (see option_labels.json)",
+   "Impact_SDG2 is scored out of 0.3; every other rated question out of 1"
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+tools/.login.log
+__pycache__/
+*.pyc
+.DS_Store
+
+# development-only (kept locally)
+tools/
+/reference/
+/templates/
